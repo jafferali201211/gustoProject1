@@ -1,0 +1,207 @@
+.mainHeader{
+	float:left;
+	width:100%;
+	background-image:url("../image/intro-bg.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100% 100%;
+	
+}
+
+.headerOne {
+   float: left;
+    width: 100%;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 8em 0em;
+   
+}
+
+.headerOne h2{
+	font-family: 'Rochester', cursive;
+    color: #fff;
+    font-size: 10em;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+
+.header{
+	float:left;
+	width:100%;
+	
+}
+.menulist li{
+	list-style-type:none;
+	display:inline-block;
+	padding-left:6em;
+	margin:1em;
+	text-transform:uppercase;
+	
+}
+.menulist a:hover{
+color:orange;
+text-decoration: none;
+}
+
+
+
+h2{
+font-family: 'Cedarville Cursive', cursive;
+font-family: 'Rochester', cursive;
+    color: rgb(8, 8, 8);
+    font-size: 10em;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+.hero_Section{
+	font:left;
+	width:100;
+}
+h3{
+	text-transform:uppercase;
+	text-align:center;
+	padding-top:4em;
+	margin-top:1em;
+}
+
+.sectionMainPart{
+	width:100%;
+	float:left;
+	display:block;
+}
+
+.sectionOne{
+	width:27%;
+	float:left;
+	padding:1em;
+	margin:1em;
+	border:1px solid white;
+	
+}
+.sectionOne img{
+	width:100%;
+	height:auto;
+}
+.sectionTwo{
+	width:27%;
+	float:left;
+	padding:1em;
+	margin:1em;
+	border:1px solid whitesmoke;
+	
+}
+.sectionTwo img{
+	width:100%;
+	height:auto;
+}
+.sectionThree{
+	width:26%;
+	float:right;
+	padding:1em;
+	margin:1em;
+	border:1px solid white;
+	}
+.sectionThree img{
+	width:100%;
+	height:auto;
+}
+.hero_Section_PartTwo{
+	width:100;
+	float:left;
+}
+
+
+/* hero_Section_PartTwo */
+.hero_Section_PartTwo{
+	width:100%;
+	float:left;
+	margin:0em auto;
+}
+.ourStoryPartOne img{
+	width:50%;
+	background-color: yellow;
+	float:left;
+	display:block;
+	margin:0em auto;
+	padding:0em auto;
+	position:relative;
+	top:4em;
+	left:2em;
+}
+.ourStoryPartTwo{
+	width:43%;
+	float:right;
+	margin:0em 0em 0em 4em;
+	display:block;
+	}
+.ourStoryPartTwo h3{
+	padding:3em 0em 1em 0em;
+	border-bottom: 1px solid red;
+	width: 1em;
+	display:block;
+	margin-left:3em;
+	text-transform:uppercase;
+	}
+.paraOne{
+	padding-bottom:2em;
+	width:100%;
+	}
+.paraTwo{
+	padding-top:2em;
+	width:100%;
+	
+	}
+.menuItemImage{
+	float:left;
+	width:100%;
+	margin:0em auto;
+	padding:0em auto;
+}
+.menuItemImage img{
+	width:23%;
+	margin:0em;
+	padding:0em;
+	position: relative;
+	top:2em;
+	left:2em;
+	bottom:1em;
+}
+.hero_Section_PartThree{
+	float:left;
+	width:100%;
+}
+
+.meetChiefPartOne{
+	float:left;
+	width:50%;
+	position:relative;
+	left:2em;
+	right:2em;
+	top:1em;
+}
+.meetChiefPartOne h3{
+	border-bottom:2px solid red;
+	display:block;
+	font-size: 25px;
+	width:2
+}
+.meetChiefPartOne p{
+	padding:2em;
+	text-align:center;
+	
+}
+
+.meetChiefPartTwo{
+	float:right;
+	width:50%;
+	}
+
+.meetChiefPartTwo img{
+	text-align:center;
+	width:80%;
+	position:relative;
+	margin:6em auto;
+	padding:2em;
+}
